@@ -1,5 +1,5 @@
-"# Estructura_Datos" 
+# Estructura de Datos
 
-Bryan Tello F.
-
-Hola
+Autores:
+    Bryan Tello
+    Andres Maldoando
